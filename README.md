@@ -1,5 +1,7 @@
 # Discord Akairo Boilerplate
 
+[Discord Akairo docs](https://discord-akairo.github.io/#/)
+
 ## Installation
 Requires Node 10+
 
