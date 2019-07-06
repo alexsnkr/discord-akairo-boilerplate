@@ -1,0 +1,16 @@
+{
+  "name": "akairo-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-akairo": "git+https://github.com/discord-akairo/discord-akairo.git",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0"
+  }
+}
